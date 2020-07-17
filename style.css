@@ -589,3 +589,18 @@
 .side-tag-listz:hover{
   background-color: black;
 }
+.btn-top{
+  width: 50px;
+  height: 50px;
+  background-color: black;
+  border-radius:50%;
+  position: fixed;
+  left: 900px;
+  top:550px;
+}
+.fa-angle-up{
+  color: white;
+  font-size: 40px;
+  margin-top: 5px;
+  margin-left: 12px;
+}
